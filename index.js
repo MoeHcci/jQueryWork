@@ -51,6 +51,5 @@ $(".myClass").html("<em>hello click me</em>")
 
 
 
-
   // These brackets are for the .ready() method
 });
